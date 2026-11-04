@@ -1,0 +1,97 @@
+Feature,Importance
+num__Present_Price,0.8872143759937221
+num__Year,0.06506582952040137
+cat__Car_Name_land cruiser,0.016785978179444598
+num__Driven_kms,0.012101378770620709
+cat__Transmission_Automatic,0.003475612123391304
+cat__Transmission_Manual,0.003390398573842282
+cat__Car_Name_corolla altis,0.002989572275025063
+cat__Car_Name_innova,0.0017271281239186688
+cat__Selling_type_Individual,0.0012176761353778535
+cat__Selling_type_Dealer,0.0009961732148489719
+cat__Car_Name_city,0.00090816770954309
+cat__Fuel_Type_Diesel,0.000858143620170253
+cat__Car_Name_verna,0.0007053185437075157
+cat__Fuel_Type_Petrol,0.0006727841068760888
+cat__Car_Name_fortuner,0.0004045345786543374
+cat__Car_Name_amaze,0.0002060291188533568
+cat__Car_Name_ciaz,0.00019501769981940202
+cat__Car_Name_jazz,0.0001831293703075278
+cat__Car_Name_creta,0.00010315831685713046
+cat__Car_Name_etios gd,9.560810357535597e-05
+cat__Car_Name_i20,6.752974800324276e-05
+cat__Car_Name_elantra,6.393748991494956e-05
+cat__Car_Name_ertiga,6.347793527478485e-05
+cat__Car_Name_brio,5.915417597584092e-05
+cat__Car_Name_i10,5.080001800952713e-05
+cat__Car_Name_eon,4.84342572839893e-05
+cat__Car_Name_etios g,4.718822045445424e-05
+cat__Car_Name_alto k10,4.602407454238878e-05
+cat__Car_Name_swift,3.594319531249375e-05
+cat__Car_Name_800,2.7247801359812172e-05
+cat__Car_Name_grand i10,2.698689942683704e-05
+cat__Car_Name_ritz,2.513223416029631e-05
+cat__Car_Name_xcent,2.2022252839266248e-05
+cat__Car_Name_sx4,1.9542388043771937e-05
+cat__Car_Name_Honda CBR 150,1.3827089207074146e-05
+cat__Car_Name_etios liva,1.2003936739934248e-05
+cat__Car_Name_wagon r,8.223417591041662e-06
+cat__Car_Name_Royal Enfield Classic 500,8.18625776956608e-06
+cat__Car_Name_dzire,5.9009169628625625e-06
+cat__Car_Name_ignis,5.353214123201617e-06
+num__Owner,4.488617057604969e-06
+cat__Car_Name_Honda Karizma,4.326874402514616e-06
+cat__Car_Name_UM Renegade Mojave,3.16784614716119e-06
+cat__Car_Name_Royal Enfield Bullet 350,3.166443655877141e-06
+cat__Car_Name_etios cross,2.8395059630190487e-06
+cat__Fuel_Type_CNG,2.2996139705176613e-06
+cat__Car_Name_KTM RC390,2.0787714207373528e-06
+cat__Car_Name_Hero Passion X pro,1.8971138945560947e-06
+cat__Car_Name_Bajaj Pulsar 150,1.888961909067512e-06
+cat__Car_Name_Royal Enfield Classic 350,1.5941681984692153e-06
+cat__Car_Name_Bajaj Avenger 220,1.4850012210958783e-06
+cat__Car_Name_Royal Enfield Thunder 350,1.4727538649062616e-06
+cat__Car_Name_KTM RC200,1.460377484217242e-06
+cat__Car_Name_Bajaj Dominar 400,1.2496383410281053e-06
+cat__Car_Name_Honda CB Unicorn,1.240602552477082e-06
+cat__Car_Name_Royal Enfield Thunder 500,1.2204713644846078e-06
+cat__Car_Name_Hero Extreme,9.870087195943258e-07
+cat__Car_Name_TVS Apache RTR 180,8.710462653266302e-07
+cat__Car_Name_TVS Apache RTR 160,8.639757714645824e-07
+cat__Car_Name_Bajaj  ct 100,8.502190245191734e-07
+cat__Car_Name_Bajaj Pulsar  NS 200,7.399588453483498e-07
+cat__Car_Name_Honda CB Trigger,7.383828630691356e-07
+cat__Car_Name_Honda CB Shine,5.703982028336826e-07
+cat__Car_Name_Suzuki Access 125,5.12175735254961e-07
+cat__Car_Name_Yamaha FZ S,4.702867718227482e-07
+cat__Car_Name_baleno,4.340300874431468e-07
+cat__Car_Name_Bajaj Pulsar NS 200,3.8950161330009754e-07
+cat__Car_Name_alto 800,3.381714250471235e-07
+cat__Car_Name_Honda CB Hornet 160R,3.2328690578973437e-07
+cat__Car_Name_Hero  Ignitor Disc,2.671603771353756e-07
+cat__Car_Name_Activa 4g,2.6099791543103535e-07
+cat__Car_Name_omni,2.414051349665517e-07
+cat__Car_Name_Yamaha Fazer,2.184156502344713e-07
+cat__Car_Name_Bajaj Pulsar 220 F,2.0228417695670253e-07
+cat__Car_Name_Honda Activa 4G,1.9563055879628373e-07
+cat__Car_Name_Bajaj Avenger 150,1.6834813149243917e-07
+cat__Car_Name_Honda Activa 125,1.6785123963639304e-07
+cat__Car_Name_Hero Splender Plus,1.6250057100168354e-07
+cat__Car_Name_Bajaj Discover 125,1.61456166502869e-07
+cat__Car_Name_Yamaha FZ S V 2.0,1.4645651975569805e-07
+cat__Car_Name_Hero  CBZ Xtreme,1.437243034192696e-07
+cat__Car_Name_Honda Dream Yuga,1.4131073035803465e-07
+cat__Car_Name_KTM 390 Duke,1.0393864088873716e-07
+cat__Car_Name_Honda CB twister,9.907481774171252e-08
+cat__Car_Name_Bajaj Discover 100,8.677378068315386e-08
+cat__Car_Name_TVS Jupyter,8.184900622850333e-08
+cat__Car_Name_Bajaj Avenger 220 dtsi,7.981016198306026e-08
+cat__Car_Name_Bajaj Avenger 150 street,4.9899847693803705e-08
+cat__Car_Name_Yamaha FZ  v 2.0,4.63268760433738e-08
+cat__Car_Name_Bajaj Avenger Street 220,3.008260024148042e-08
+cat__Car_Name_Activa 3g,2.111392384005462e-08
+cat__Car_Name_Hero Splender iSmart,1.9706378462502537e-08
+cat__Car_Name_Hero Passion Pro,6.2695974755142155e-09
+cat__Car_Name_Hero Hunk,1.5323487335720274e-09
+cat__Car_Name_Bajaj Pulsar 135 LS,1.0447382875720513e-09
+cat__Car_Name_Hero Super Splendor,2.3017522979589442e-10
